@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lectigh.github.io/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/app/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/assets/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/css/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/data/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/includes/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/item/sitemap.lectigh.gz
+Sitemap: https://lectigh.github.io/src/sitemap.lectigh.gz
